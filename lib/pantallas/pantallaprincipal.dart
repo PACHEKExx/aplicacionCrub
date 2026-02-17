@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 
-import '../datos/base_datos_app.dart';
+import '../basededatos/db.dart';
 import '../modelos/usuario.dart';
-import 'pantalla_registro_usuario.dart';
+import 'pantallaregistro.dart';
 
 class PantallaInicioSesion extends StatefulWidget {
   const PantallaInicioSesion({

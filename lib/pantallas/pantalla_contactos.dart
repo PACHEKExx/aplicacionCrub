@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
 
-import '../datos/base_datos_app.dart';
+import '../basededatos/db.dart';
 import '../modelos/contacto.dart';
 import '../modelos/usuario.dart';
-import 'formulario_contacto.dart';
+import 'formularioC.dart';
 
 class PantallaContactos extends StatefulWidget {
   const PantallaContactos({

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../datos/base_datos_app.dart';
+import '../basededatos/db.dart';
 
 class PantallaRegistroUsuario extends StatefulWidget {
   const PantallaRegistroUsuario({super.key});
